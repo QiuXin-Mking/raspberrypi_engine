@@ -1,3 +1,4 @@
+# -*- coding: gbk -*-
 import socket  
 import RPi.GPIO as GPIO  
 import time  
